@@ -1,0 +1,8 @@
+Minh Nguyen
+
+HexBoard.hpp
+	Hex board source file with functions to implement a Hex game between a human player and Hex AI.
+
+main.cpp
+	Main file that lets user play game against AI on a hex board with size (3-20).
+
